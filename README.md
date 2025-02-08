@@ -1,4 +1,4 @@
-# Resource Calendar Application
+# Monthly Calender
 
 A modern, interactive resource calendar built with React and TypeScript. This application allows users to manage and schedule events across different resources with an intuitive drag-and-drop interface.
 
@@ -35,7 +35,7 @@ git clone <repository-url>
 
 2. Navigate to the project directory:
 ```bash
-cd resource-calendar
+cd monthly-calendar
 ```
 
 3. Install dependencies:
@@ -136,7 +136,7 @@ Given more time, these improvements would enhance the application:
    - More customizable view options (week, day views)
    - Better mobile responsiveness
 
-   
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
